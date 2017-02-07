@@ -1,0 +1,22 @@
+{
+  "name": "starter-web",
+  "description": "starter-project for expressJS",
+  "main": "app.js",
+  "authors": [
+    "Jwo Nagel"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
